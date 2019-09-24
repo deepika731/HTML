@@ -1,0 +1,36 @@
+body{
+	background-color:#317867;
+}
+table{
+	background-color:#574667;
+}
+#sign{
+		background-color:green;
+		padding:10px;
+		text-align:center;
+		
+}
+#s1{
+		color:white;
+		text-align:center;
+		text-decoration:none;
+}
+.field{
+		width:70%;
+		padding:7px;
+}
+.field:hover{
+		background-color:#eaeaea;
+}
+.button{
+		padding:10px;
+		width:50%;
+		border-radius:10px;
+}
+td{
+	font-size:20px;
+}
+
+
+		
+		

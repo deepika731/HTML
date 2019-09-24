@@ -1,0 +1,9 @@
+	<!ELEMENT StudentDetails (student+)>
+	<!ELEMENT student (id,name,gender,year,class,extra) >
+	<!ELEMENT id (#PCDATA) >
+	<!ELEMENT name (#PCDATA) >
+	<!ELEMENT gender (#PCDATA) >
+	<!ELEMENT year (#PCDATA) >
+	<!ELEMENT class (#PCDATA) >
+	<!ELEMENT extra (#PCDATA) >
+	<!ATTLIST student cgpa CDATA "9.5">

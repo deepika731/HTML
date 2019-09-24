@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="student.css"?>
+<!DOCTYPE StudentDetails SYSTEM "student.dtd">
+
+<StudentDetails>
+	<student>
+		<id>N150731</id>
+		<name>Deepika</name>
+		<gender>Female</gender>
+		<year>E1</year>
+		<class>Cse-04</class>
+		<extra>NSS</extra>
+	</student>
+	<student>
+		<id>N150720</id>
+		<name>Divya</name>
+		<gender>Female</gender>
+		<year>E1</year>
+		<class>Cse-02</class>
+		<extra>Music</extra>
+	</student>
+	<student>
+		<id>N150734</id>
+		<name>Sarala</name>
+		<gender>Female</gender>
+		<year>E1</year>
+		<class>Chem-01</class>
+		<extra>Music</extra>
+	</student>
+	<student>
+		<id>N150727</id>
+		<name>Vineetha </name>
+		<gender>Female</gender>
+		<year>E1</year>
+		<class>Ece-04</class>
+		<extra>Yoga</extra>
+	</student>
+	<student>
+		<id>N150390    </id>
+		<name>Naga Laxmi    </name>
+		<gender>Female    </gender>
+		<year>E1    </year>
+		<class>Ece-04    </class>
+		<extra>Yoga   </extra>
+	</student>
+	<student>
+		<id>N150692    </id>
+		<name>Vamsi Krishna Sri</name>
+		<gender>Female   </gender>
+		<year>E1   </year>
+		<class>Cse-04   </class>
+		<extra>NSS   </extra>
+	</student>
+	<student>
+		<id>N150776    </id>
+		<name>Satya Gowri    </name>
+		<gender>Female   </gender>
+		<year>E1   </year>
+		<class>Cse-04   </class>
+		<extra>NSS   </extra>
+	</student>
+	<student>
+		<id>N140428   </id>
+		<name>Ganesh   </name>
+		<gender>Male   </gender>
+		<year>E2   </year>
+		<class>Ece-02   </class>
+		<extra>NSS   </extra>
+	</student>
+	<student>
+		<id>N150726   </id>
+		<name>Keerthana   </name>
+		<gender>Female   </gender>
+		<year>E1   </year>
+		<class>CE-01   </class>
+		<extra>NSS   </extra>
+	</student>
+	<student>
+		<id>N150715   </id>
+		<name>Varsha   </name>
+		<gender>Female   </gender>
+		<year>E1   </year>
+		<class>Ece-01   </class>
+		<extra>NSS   </extra>
+	</student>
+</StudentDetails>
+	

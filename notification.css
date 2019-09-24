@@ -1,0 +1,27 @@
+table{
+	width:80%;
+	height:60%;
+	}
+td{
+	color:#475848;
+	padding:10px;
+	font-size:20px;
+	text-align:center;
+	}
+th{
+	padding:10px;
+	font-size:24px;
+	
+	}
+tr{
+	background-color:#F3CEA9;
+	}
+tr:hover{
+	background-color:#8AA5EC;
+	}
+.tr_color1{
+	background-color:#F2E3FB;
+	}
+.tr_color2{
+	background-color:#EACA4D;
+	}
